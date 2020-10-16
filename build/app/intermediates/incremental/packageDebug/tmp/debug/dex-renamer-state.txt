@@ -1,0 +1,4 @@
+#Fri Oct 16 10:40:58 IST 2020
+base.0=/home/harsh/Documents/Fluuter/FluuterCustomInfoWindow/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
