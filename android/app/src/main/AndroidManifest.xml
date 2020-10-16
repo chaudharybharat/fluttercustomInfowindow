@@ -6,7 +6,8 @@
         android:label="FluuterCustomInfoWindow"
         android:icon="@mipmap/ic_launcher">
        <meta-data android:name="com.google.android.geo.API_KEY"
-           android:value="AIzaSyBTA1De-s0CcKoc7rufSX8ARITLR25LPs4"/>
+           android:value="
+<your map key>"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
